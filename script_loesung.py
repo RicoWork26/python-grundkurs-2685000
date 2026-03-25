@@ -19,19 +19,19 @@
 
 # Optional: Erweitern Sie den Taschenrechner um weitere Funktionen wie Potenzierung oder Modulo.
 
-zahl_1 = input("Bitte geben Sie die erste Zahl ein: ")
-zahl_1 = float(zahl_1)
-zahl_2 = float(input("Bitte geben Sie die zweite Zahl ein: "))
+# zahl_1 = input("Bitte geben Sie die erste Zahl ein: ")
+# zahl_1 = float(zahl_1)
+# zahl_2 = float(input("Bitte geben Sie die zweite Zahl ein: "))
 
-operation = input("Bitte wählen Sie die gewünschte Operation (+, -, *, /): ")
+# operation = input("Bitte wählen Sie die gewünschte Operation (+, -, *, /): ")
 
-if operation == "+":
-    ergebnis = zahl_1 + zahl_2
-elif operation == "-":
-    ergebnis = zahl_1 - zahl_2
-elif operation == "*":
-    ergebnis = zahl_1 * zahl_2
-elif operation == "/":
-    ergebnis = zahl_1 / zahl_2
+# if operation == "+":
+#     ergebnis = zahl_1 + zahl_2
+# elif operation == "-":
+#     ergebnis = zahl_1 - zahl_2
+# elif operation == "*":
+#     ergebnis = zahl_1 * zahl_2
+# elif operation == "/":
+#     ergebnis = zahl_1 / zahl_2
 
-print("Das Ergebnis der Berechnung ist:", ergebnis)
+# print("Das Ergebnis der Berechnung ist:", ergebnis)
